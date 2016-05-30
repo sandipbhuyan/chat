@@ -1,0 +1,26 @@
+@charset "utf-8";
+/*css comment*/
+
+.uname{
+		color:#00F;
+		font-weight:bold;
+		font-size: 15px;
+		font-family: Verdana , sans-serif;
+
+	  }
+.msg{
+		color: #390;
+		font-size:15px;
+		font-family:  Georgia,"times new roman",Times,serif;
+     }
+.button{
+	text-align: center;
+	background-color: #F00;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #000;
+	color: #FFF;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-decoration: none;
+}
